@@ -5,3 +5,4 @@ local edit 3
 local edit 4
 remote edit 5
 local edit 6
+remote test merge
