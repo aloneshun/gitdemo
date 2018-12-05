@@ -6,3 +6,4 @@ local edit 4
 remote edit 5
 local edit 6
 remote test merge
+remote test merge2
