@@ -1,4 +1,7 @@
 # gitdemo
 local edit 1
 remote edit 2
-remote edit 3
+local edit 3
+local edit 4
+remote edit 5
+local edit 6
